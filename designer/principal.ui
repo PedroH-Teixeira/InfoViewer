@@ -110,6 +110,11 @@ padding: 5px;
           </item>
           <item>
            <property name="text">
+            <string>PORTARIA</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
             <string>RECEPÇÃO</string>
            </property>
           </item>
